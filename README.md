@@ -1,9 +1,3 @@
-# ddsp_naive_oscillator_waveform_generator
-```python
-Here’s the filled-in spec, followed by the full standalone Python module.
-
----
-
 ## ✅ DDSP MODULE SPEC — `ddsp_naive_oscillator_waveforms_generator`
 
 **MODULE NAME:**
